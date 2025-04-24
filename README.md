@@ -59,3 +59,17 @@ The dataset is provided by [Simula Research Laboratory](https://datasets.simula.
    ```bash
    git clone <repository_url>
 
+# install the required dependencies
+2. pip install -r requirements.txt
+
+# 3.Download the dataset from Simula Research Laboratory and place the files in the appropriate directory.
+
+# 4.Run the data loading and analysis scripts:
+python load_data.py
+
+# 5.Access the dashboard at http://localhost:5000.
+
+# This project is licensed under the MIT License - see the LICENSE file for details.
+This template covers the key points of your project, including the ER schema design, ORM implementation, ETL functions, and dashboard creation. You can adjust the details and code instructions based on the specific steps you follow in your project. Let me know if you need any modifications!
+
+
