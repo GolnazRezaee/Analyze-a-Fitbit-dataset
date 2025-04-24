@@ -55,9 +55,10 @@ The dataset is provided by [Simula Research Laboratory](https://datasets.simula.
 - **SQLAlchemy**: ORM library for Python to interact with relational databases.
 
 ## Setup
-1. Clone this repository:
+1. 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/GolnazRezaee/Analyze-a-Fitbit-dataset
+
 
 # install the required dependencies
 2. pip install -r requirements.txt
